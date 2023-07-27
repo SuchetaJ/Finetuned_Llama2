@@ -1,6 +1,6 @@
 # Finetuned_Llama2
 
-As part of an independent research initiative, I undertook a challenging project to improve the performance of a large language model, Meta LLAMA2, 
+As part of an independent research initiative, I undertook a project to improve the performance of a large language model, Meta LLAMA2, 
 which boasts an impressive 7 billion parameters. The goal was to enhance its capabilities in answering questions and comprehending context by 
 leveraging the Stanford Question Answering Dataset (SQuAD).
 
